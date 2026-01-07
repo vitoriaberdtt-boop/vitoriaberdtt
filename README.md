@@ -2,7 +2,7 @@
 
 * Aspiring Front-end developer
 * Currently developing interactive and responsive websites such as quizzes, calculators, landing pages, and more.
-* Check out my projects!
+* Check out my repositories!
   
 # Languages
 <div style="display: inline_block"><br>
